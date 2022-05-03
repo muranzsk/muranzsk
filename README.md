@@ -1,61 +1,54 @@
 # Hi there! 👋 I'm [Muranzsk](https://www.twitch.tv/muranzsk)
-<br/>
-<br/>
-⚡ I'm a gamer🎮, anime enthusiast📺, manga reader📚.
-<br/><br/>
-⚡ I hate offices 🏢.
-<br/><br/>
-⚡ My long term goal is to be an hybrid UI/UX developer💻 and designer🎨
-<br/><br/>
-⚡ 🗼 Someday I will enter the anime industry 🗼
-<br/><br/>
+
+<p>Welcome! </br> <br/> I'm a gamer🎮, anime enthusiast📺 and manga reader📚 from Mexico <img src="https://cdn-icons-png.flaticon.com/512/630/630615.png" width="13"\>.</p>
+
+
+### 🗿 What you need to know from me
+<ul>
+  <li>I hate offices 🏢.</li>
+  <li>My long term goal is to be an hybrid UI/UX developer 💻 and designer 🎨.</li>
+  <li>Someday I will enter the anime industry <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"\></li>
+</ul>
 
 ## 🤓 What I know 
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic)
-
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
-
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=plastic)
-<br/><br/>
 ## 📃 What I'm learning
-
-![C#](https://img.shields.io/badge/-C_Sharp-239120?logo=csharp&logoColor=white&style=plastic)
-
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black&style=plastic)
-
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=plastic)
-
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=plastic)
-
-![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-FF61F6?logo=adobedreamweaver&logoColor=white&style=plastic)
-<br/><br/>
+<p>
+  <img alt="CSharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" \>
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" \>
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" \>
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" \>
+  <img alt="Dreamweaver" src="https://img.shields.io/badge/-Dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white" \>
+</p>
 
 ## 🐉  What I've done
-
-☎️ A human resources management app (Java) for the main Mexican ISP.
-
-🏥 Microservices for a warehouse inventory management app (Java) for the Mexican healthcare system.
-
-💲 OAuth federations (Java, JavaScript, TypeScript) for a big Mexican retail company.
-
-🪙 A bin (credit cards secret keys) management system for a Mexican Bank (Java, JavaScript).
-
-💵 Workflow corrections for an American financial services company (Java).
-
-🤖 Bots and scrapers for multiple companies (C#, Typescript).
-<br/><br/>
+<ul>
+  <li>☎️ A human resources management app (Java) for the main Mexican ISP.</li>
+  <li>🏥 Microservices for a warehouse inventory management app (Java) for the Mexican healthcare system.</li>
+  <li>💲 OAuth federations (Java, JavaScript, TypeScript) for a big Mexican retail company.</li>
+  <li>💳 A bin (credit cards secret keys) management system for a Mexican Bank (Java, JavaScript).</li>
+  <li>💵 Workflow corrections for an American financial services company (Java).</li>
+  <li>🤖 Bots and scrapers for multiple companies (C#, Typescript).</li>
+</ul>
 
 ## 🌟 GitHub Stats
 [![card](https://github-readme-stats.vercel.app/api?username=muranzsk&theme=radical&show_icons=true)](https://github.com/iuricode/)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=muranzsk&hide=html&layout=compact&theme=radical)](https://github.com/iuricode/)
+
+## 🐧 What I do with my free time
+
+I play FFXIV a lot! Join me on <b>Jenova</b> server, <b>Aether</b> datacenter!
+
+<img src="https://www.ffxivprofilegenerator.com/get/55377305" alt="My FFXIV profile" />
 
 <details>
 <summary>📺 What I'm watching</summary>
