@@ -1,12 +1,14 @@
 # Hi there! 👋 I'm [Muranzsk](https://www.twitch.tv/muranzsk)
-
-I'm a gamer🎮, anime enthusiast📺, manga reader📚.
-
-I hate offices🏢.
-
-My long term goal is to be an hybrid UI/UX developer💻 and designer🎨
-
-🗼 Someday I will enter the anime industry 🗼
+<br/>
+<br/>
+⚡ I'm a gamer🎮, anime enthusiast📺, manga reader📚.
+<br/><br/>
+⚡ I hate offices 🏢.
+<br/><br/>
+⚡ My long term goal is to be an hybrid UI/UX developer💻 and designer🎨
+<br/><br/>
+⚡ 🗼 Someday I will enter the anime industry 🗼
+<br/><br/>
 
 ## 🤓 What I know 
 
@@ -21,7 +23,7 @@ My long term goal is to be an hybrid UI/UX developer💻 and designer🎨
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=plastic)
-
+<br/><br/>
 ## 📃 What I'm learning
 
 ![C#](https://img.shields.io/badge/-C_Sharp-239120?logo=csharp&logoColor=white&style=plastic)
@@ -33,6 +35,7 @@ My long term goal is to be an hybrid UI/UX developer💻 and designer🎨
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=plastic)
 
 ![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-FF61F6?logo=adobedreamweaver&logoColor=white&style=plastic)
+<br/><br/>
 
 ## 🐉  What I've done
 
@@ -47,6 +50,7 @@ My long term goal is to be an hybrid UI/UX developer💻 and designer🎨
 💵 Workflow corrections for an American financial services company (Java).
 
 🤖 Bots and scrapers for multiple companies (C#, Typescript).
+<br/><br/>
 
 ## 🌟 GitHub Stats
 [![card](https://github-readme-stats.vercel.app/api?username=muranzsk&theme=radical&show_icons=true)](https://github.com/iuricode/)
